@@ -12,7 +12,7 @@
 
 #### 2. **Data Collection and Preparation**
 
-- **Gather Data**: Collect banking data for AI training and historical records for blockchain.
+- **Gather Data**: Collect banking data for AI training.
 - **Data Cleaning**: Clean and preprocess the data to ensure it is suitable for training AI models. This includes handling missing values, normalizing data, and ensuring consistent formatting.
 
 #### 4. **Model Development and Training**
