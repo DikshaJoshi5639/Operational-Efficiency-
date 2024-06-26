@@ -1,8 +1,10 @@
 # Enhancing Banking Operational Efficiency with Generative AI
+## Flow daigram and Implementation
+![WhatsApp Image 2024-06-24 at 17 06 41_b5819182](https://github.com/DikshaJoshi5639/Operational-Efficiency-/assets/148073630/1a730974-8681-478d-b658-ede6ef5618f8)
+
 
 ## Objective
-The objective of this project is to enhance the operational efficiency of banking processes through the integration of generative AI. By automating routine tasks and optimizing workflows, we aim to reduce processing time, minimize errors, optimize resource allocation, and provide intelligent insights for process improvements and decision-making support.
-
+The objective of this project is to enhance the operational efficiency of banking processes through the integration of generative AI. By automating routine tasks and optimizing workflows, we aim to reduce processing time, minimize errors, optimize resource allocation, provide intelligent insights for process improvements and decision-making support additionally, we implement high-security measures using advanced blockchain techniques, specifically Ethereum, to ensure maximum protection.
 ## Challenges
 - Automate repetitive administrative and operational tasks in banking.
 - Optimize resource allocation and workflow management for improved efficiency.
@@ -31,11 +33,14 @@ The objective of this project is to enhance the operational efficiency of bankin
 ### Prerequisites
 - Python 3.x
 - Install required libraries: `pip install -r requirements.txt`
+- Metamask Wallet setup using chrome extension: https://metamask.io/download/
+- Etherscan Sepolia Blockchain (Here Testnet): https://sepolia.etherscan.io/
+
 
 ### Installation
-1. Clone the repository:
+1. Clone the repository:git clone https://github.com/Operational-Efficiency-.git
 
-2. Install dependencies:
+2. Install dependencies: 
 
 3. Run scripts to preprocess data, train models, and deploy chatbot.
 
@@ -43,8 +48,10 @@ The objective of this project is to enhance the operational efficiency of bankin
 Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## Authors
-- [Your Name](https://github.com/yourusername)
-- [Co-Author Name](https://github.com/coauthorusername)
+- Diksha Joshi(https://github.com/DikshaJoshi5639)
+- Jatin Mittal(https://github.com/Jat21in)
+- Nivedita Srivastava(https://github.com/Niveditasri)
+- Harshit Raj(https://github.com/HarshitRaj23)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
