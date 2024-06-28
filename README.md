@@ -1,10 +1,11 @@
 # Enhancing Banking Operational Efficiency with Generative AI
-## Flow daigram and Implementation
+## Flow diagram and Implementation
 ![WhatsApp Image 2024-06-24 at 17 06 41_b5819182](https://github.com/DikshaJoshi5639/Operational-Efficiency-/assets/148073630/1a730974-8681-478d-b658-ede6ef5618f8)
 
 
 ## Objective
 The objective of this project is to enhance the operational efficiency of banking processes through the integration of generative AI. By automating routine tasks and optimizing workflows, we aim to reduce processing time, minimize errors, optimize resource allocation, provide intelligent insights for process improvements and decision-making support additionally, we implement high-security measures using advanced blockchain techniques, specifically Ethereum, to ensure maximum protection.
+
 ## Challenges
 - Automate repetitive administrative and operational tasks in banking.
 - Optimize resource allocation and workflow management for improved efficiency.
@@ -65,8 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - Mention any contributors or resources that helped inspire or support your project.
 - Include links to external libraries or tools used (e.g., NLTK, scikit-learn).
-
----
-
-Feel free to customize the sections and add more details specific to your project's implementation and achievements. Markdown syntax allows for easy formatting and linking, enhancing the readability and visual appeal of your GitHub repository's README file. Adjust the links (`/data`, `/models`, etc.) to match your actual folder structure once you create and organize the files accordingly.
-
