@@ -20,6 +20,7 @@ The objective of this project is to enhance the operational efficiency of bankin
 
 ### 3. Chatbot Development
 - Created a responsive chatbot interface using NLP and integrated it with AI models to interact with users, answer queries, and provide personalized recommendations.
+- Customer Service:- Utilize predictive models for forecasting behavior, trends, and risks, and apply NLP for analyzing unstructured data such as customer feedback.
 - Prototype of a chatbot: https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=e5a1fe78-0d1b-4983-bdb7-3e418b14f83f
 
 ### 4. Security Implementation
@@ -30,11 +31,16 @@ The objective of this project is to enhance the operational efficiency of bankin
 - Real-Time Monitoring and Adjustment: Use AI to continuously monitor key performance and operational metrics in real-time. The system can automatically adjust resource allocation based on current conditions, ensuring optimal utilization of resources.
 - Scheduling and Shift Optimization: Integrate AI-driven scheduling tools to create optimal work schedules for employees, considering factors like peak hours, employee preferences, and skill sets. This minimizes idle time and ensures that the right personnel are available at the right time.
 
+### 6. Provide Intelligent Insights for Process Improvements and Decision-Making
+- Data Analytics:- Utilizing machine learning for pattern and trend identification along with testing it on large data.(Here we have used raw csv file)
+- Visulaization :- Implementing BI tools like Power BI for interactive reports and developing custom dashboards for tracking performance and insights.
+
 ## File Structure
-- `/data`: Contains datasets used for training and testing.
-- `/models`: Stores trained machine learning models.
-- `/scripts`: Python scripts for data preprocessing, model training, and chatbot development.
-- `/docs`: Documentation files, including project requirements, setup instructions, and user guides.
+- `/Hackathon_BOB.ipynb`: Contains the model selection, Data Preprocessing ,Feature Engineering and NLP integartion .
+- `/CRYPTO_BLOCKCHAIN.ipynb`: Contains the files for security and blockchain integartion of the dataset after model processing.
+- `/Optimize_Resource_Allocation.ipynb`: Optimise and allocate resources using sklearn.
+- `/.pbix`: It contains visualizing files which are made with Power BI for better understanding of the strata.
+
 
 ## Getting Started
 ### Prerequisites
@@ -45,11 +51,13 @@ The objective of this project is to enhance the operational efficiency of bankin
 
 
 ### Installation
-1. Clone the repository:git clone https://github.com/Operational-Efficiency-.git
+1. Clone the repository:git clone (https://github.com/DikshaJoshi5639/Operational-Efficiency-.git)
 
-2. Install dependencies: 
+2. Install dependencies: According to the model(In the colab files)
 
 3. Run scripts to preprocess data, train models, and deploy chatbot.
+   
+5. Visulaize the process using Power BI
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests.
@@ -60,8 +68,6 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 - Nivedita Srivastava(https://github.com/Niveditasri)
 - Harshit Raj(https://github.com/HarshitRaj23)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Mention any contributors or resources that helped inspire or support your project.
