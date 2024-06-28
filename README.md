@@ -19,9 +19,15 @@ The objective of this project is to enhance the operational efficiency of bankin
 
 ### 3. Chatbot Development
 - Created a responsive chatbot interface using NLP and integrated it with AI models to interact with users, answer queries, and provide personalized recommendations.
+- Prototype of a chatbot: https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=e5a1fe78-0d1b-4983-bdb7-3e418b14f83f
 
 ### 4. Security Implementation
 - Implemented blockchain and cryptography technologies to encrypt and decrypt sensitive data produced by AI models, ensuring data privacy and security.
+
+### 5. Optimizing Resource Allocation and Workflow Management through Dynamic Resource Allocation
+- AI-Powered Predictive Analytics: Implemented generative AI models to analyze historical data and predict future demand for various banking services.
+- Real-Time Monitoring and Adjustment: Use AI to continuously monitor key performance and operational metrics in real-time. The system can automatically adjust resource allocation based on current conditions, ensuring optimal utilization of resources.
+- Scheduling and Shift Optimization: Integrate AI-driven scheduling tools to create optimal work schedules for employees, considering factors like peak hours, employee preferences, and skill sets. This minimizes idle time and ensures that the right personnel are available at the right time.
 
 ## File Structure
 - `/data`: Contains datasets used for training and testing.
